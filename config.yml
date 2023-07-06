@@ -1,0 +1,18 @@
+theme:
+  ui:
+    table:
+      showSeparator: true
+  colors:
+    text:
+      primary: "#f8f8f2"
+      secondary: "#ff79c6"
+      inverted: "#282a36"
+      faint: "#ffb86c"
+      warning: "#ff5555"
+      success: "#50fa7b"
+    background:
+      selected: "#80008E"
+    border:
+      primary: "#383B5B"
+      secondary: "#39386B"
+      faint: "#2B2B40"
